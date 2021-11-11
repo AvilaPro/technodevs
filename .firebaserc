@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "technodevs": {
+      "hosting": {
+        "app": [
+          "technodevs"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "technodevs"
+  }
+}
