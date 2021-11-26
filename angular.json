@@ -33,7 +33,9 @@
             ],
             "styles": [
               "src/theme/variables.scss",
-              "src/global.scss"
+              "src/global.scss",
+              "src/assets/css/nice.css",
+              "src/assets/css/page2.css"
             ],
             "scripts": [],
             "aot": false,
